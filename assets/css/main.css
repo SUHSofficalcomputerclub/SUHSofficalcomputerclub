@@ -2563,7 +2563,7 @@
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
+					color: #3B8E68;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
@@ -2571,19 +2571,19 @@
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					color: #3C6684;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #3C6684;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #3C6684;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #3C6684;
 				}
 
 /* Image */
@@ -3269,7 +3269,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #3C6684;
 		}
 
 		.wrapper.style3-alt {
